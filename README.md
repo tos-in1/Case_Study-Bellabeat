@@ -28,7 +28,7 @@ To analyze data from a smart fitness tracker (Fitbit), uncover trends and patter
 [Click here to view Presentation slide](https://www.canva.com/design/DAGoRYZqjD4/Z5Bjm9uxq0LYipHFlUqT8w/edit?utm_content=DAGoRYZqjD4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 🧑‍💻 View SQL codes
-[Click here to view SQL codes]()
+[Click here to view SQL codes](https://github.com/tos-in1/Case_Study-Bellabeat/tree/main/SQL)
 
 ## 📝 View the entire process 
 [Click here to view Medium Report](https://medium.com/@tosin.folorunso01/bellabeat-case-study-how-user-data-unlocked-a-smarter-marketing-strategy-dc92fcad6da1)
