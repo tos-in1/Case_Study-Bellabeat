@@ -1,4 +1,4 @@
-# Bellabeat Wellness
+# 🤸‍♀️ Bellabeat Wellness
 
 ## Project Summary
 Bellabeat, a small successful high-tech wellness company focused on women’s health wants to break into and become a global player in the smart device market.
