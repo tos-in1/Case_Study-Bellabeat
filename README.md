@@ -25,10 +25,10 @@ To analyze data from a smart fitness tracker (Fitbit), uncover trends and patter
 3. Schedule weekly campaigns, tips, or flash deals to drop on Mondays, Tuesdays and Saturdays
 
 ## 📊 View Presentation Slide 
-[Click here to view Medium Report]()
+[Click here to view PowerPoint slide]()
 
 ## 🧑‍💻 View SQL codes
-[Click here to view Medium Report]()
+[Click here to view SQL codes]()
 
 ## 📝 View the entire process 
 [Click here to view Medium Report](https://medium.com/@tosin.folorunso01/bellabeat-case-study-how-user-data-unlocked-a-smarter-marketing-strategy-dc92fcad6da1)
