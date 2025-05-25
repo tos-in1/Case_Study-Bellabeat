@@ -25,7 +25,7 @@ To analyze data from a smart fitness tracker (Fitbit), uncover trends and patter
 3. Schedule weekly campaigns, tips, or flash deals to drop on Mondays, Tuesdays and Saturdays
 
 ## 📊 View Presentation Slide 
-[Click here to view PowerPoint slide]()
+[Click here to view PowerPoint slide](https://www.canva.com/design/DAGoRYZqjD4/Z5Bjm9uxq0LYipHFlUqT8w/edit?utm_content=DAGoRYZqjD4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 🧑‍💻 View SQL codes
 [Click here to view SQL codes]()
