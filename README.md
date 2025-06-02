@@ -28,11 +28,11 @@ As a data analyst, I was tasked with analyzing public smart device usage data (F
 ![Image](https://github.com/user-attachments/assets/67344acb-9a17-41bc-87d8-c20d66146783)
 
    - Users are most active on Mondays, Tuesdays and Saturdays
-![Image](https://github.com/user-attachments/assets/eed6ea36-65f4-4378-9355-67f148c797eb)
+     ![Image](https://github.com/user-attachments/assets/eed6ea36-65f4-4378-9355-67f148c797eb)
 
-![Image](https://github.com/user-attachments/assets/10fdd16a-dc0e-47d6-865d-700e38064b8c)
+     ![Image](https://github.com/user-attachments/assets/10fdd16a-dc0e-47d6-865d-700e38064b8c)
 
-![Image](https://github.com/user-attachments/assets/17f1ca4a-3b1c-4afc-aa79-9566089b9680)
+     ![Image](https://github.com/user-attachments/assets/17f1ca4a-3b1c-4afc-aa79-9566089b9680)
 
 ## 💡 Strategic Marketing  Recommendations
 **2. **HOW** could these activity trends help influence Bellabeat’s marketing strategy?**
